@@ -1,0 +1,19 @@
+<atlassian-plugin name='JIRA Service Desk French (France) Language Pack' key='tac.jira service desk.languages.fr_FR' plugins-version="2">
+  <plugin-info>
+    <description>This plugin contains translations for fr_FR</description>
+    <vendor name="Atlassian Community" url="http://translations.atlassian.com"/>
+    
+    <version>2.0.0-m10-v2r33-2014-08-27</version>
+  </plugin-info>
+
+  <language name="French (France)" key="fr_FR" language="fr" country="FR">
+  </language>
+
+  
+    <resource name="i18n-0" type="i18n" location="i18n/sd-i18n"/>
+  
+    <resource name="i18n-1" type="i18n" location="i18n/workinghours-i18n"/>
+  
+    <resource name="i18n-2" type="i18n" location="i18n/sd-workflow-i18n"/>
+  
+</atlassian-plugin>
