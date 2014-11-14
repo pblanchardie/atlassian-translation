@@ -3,7 +3,7 @@
     <description>This plugin contains translations for fr_FR</description>
     <vendor name="Atlassian Community" url="http://translations.atlassian.com"/>
     
-    <version>2.0.0-m10-v2r33-2014-08-27</version>
+    <version>2.2.0-OD-01-D20141103T092646-v2r68-2014-11-05</version>
   </plugin-info>
 
   <language name="French (France)" key="fr_FR" language="fr" country="FR">
